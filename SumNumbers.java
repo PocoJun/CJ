@@ -36,6 +36,6 @@ public class SumNumbers
       a = kb.nextInt(); // a value
       System.out.print("b = ");
       b = kb.nextInt(); // b value
-      System.out.print(test.numbers(a,b)); //Calculate sum of all numbers between a and b
+      System.out.print("Results = "+test.numbers(a,b)); //Calculate sum of all numbers between a and b
    }
 }
