@@ -1,1 +1,1 @@
-# DATA Science, Juypiter Notebook 
+# DATA Science, Jupyter Notebook 
